@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ranamrameez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhammad Rameez Rana (@ranamrameez).
+- 👀 I’m interested in Programming, Software Development, Online Gaming and learning new technologies/
+- 🌱 I’m currently learning GiS Development.
+- 👨‍⚖️ I have worked in Android Development, Database Development and .Net Framework.
+- 💞️ I’m looking to collaborate on android development and databases.
+- 📫 You can reach me mRameezRana99@gmail.com
 
-<!---
-ranamrameez/ranamrameez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
