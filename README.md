@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Muhammad Rameez Rana (@ranamrameez).
-- 👀 I’m interested in Programming, Software Development, Online Gaming and learning new technologies/
-- 🌱 I’m currently learning GiS Development.
-- 👨‍⚖️ I have worked in Android Development, Database Development and .Net Framework.
-- 💞️ I’m looking to collaborate on android development and databases.
-- 📫 You can reach me mRameezRana99@gmail.com
+- 👀 My interests include Programming, Software Development, Online Gaming, Problem Solving and Learning new technologies.
+- 🌱 I work as a GIS Researcher (Software Development).
+- 👨‍⚖️ I work in different technologies including GIS, Laravel, PHP, Android, Database and .Net Framework etc.
+- 📫 You can reach me at mRameezRana99@gmail.com
 
